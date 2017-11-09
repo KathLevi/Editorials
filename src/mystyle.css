@@ -45,6 +45,9 @@ li a:hover {
     float: left;
     width: 50%;
 }
+.sony {
+    width: 50%;
+}
 .par{
     padding-top: 10px;
     line-height: 1.5rem;
