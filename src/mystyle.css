@@ -8,6 +8,14 @@ html, body {
     padding-top: 200px;
     font-size: 50px;
 }
+.author{
+    font-size:20px;
+}
+.name {
+    font-weight: bold;
+    font-size: 20px;
+}
+
 ul {
     list-style: none;
     margin-right: 30px;
